@@ -86,4 +86,10 @@ InvestorGain shows "₹--" until grey-market quotes appear; the tracker records 
 - [India IPO GMP and subscription data as JSON](https://datadmon.github.io/guides/india-ipo-gmp-subscription-data-json/): guide to the reports and fields.
 - [apify-data-actors-examples](https://github.com/datadmon/apify-data-actors-examples): Python, Node.js, curl and n8n examples.
 
+## More templates by Daemon Data
+
+- [india-job-alerts](https://github.com/datadmon/india-job-alerts): daily new-job alerts from IIMJobs, Hirist, Foundit and Instahyre.
+- [uk-insolvency-monitor](https://github.com/datadmon/uk-insolvency-monitor): alerts when a watchlist company appears in The Gazette (winding-up petitions, administrations).
+- [india-ipo-gmp-tracker](https://github.com/datadmon/india-ipo-gmp-tracker): daily IPO GMP table, GMP history and Telegram alerts.
+
 GMP data is unofficial and indicative; nothing here is investment advice. Not affiliated with InvestorGain, Chittorgarh, NSE or BSE.
