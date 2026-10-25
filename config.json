@@ -1,0 +1,6 @@
+{
+  "category": "all",
+  "maxCostPerRunUsd": 0.5,
+  "dataDir": "data",
+  "notify": {"githubIssue": false, "mainboardOnly": false, "minGmpPercent": 0}
+}
