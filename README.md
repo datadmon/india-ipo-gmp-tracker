@@ -84,6 +84,7 @@ InvestorGain shows "₹--" until grey-market quotes appear; the tracker records 
 
 - [India IPO Tracker](https://apify.com/data_daemon/india-ipo-tracker) on Apify: GMP, subscription, calendar and listing performance as an API.
 - [India IPO GMP and subscription data as JSON](https://datadmon.github.io/guides/india-ipo-gmp-subscription-data-json/): guide to the reports and fields.
+- [How accurate is IPO GMP? We checked all 294 Indian IPOs listed in 2026](https://dev.to/datadaemon/how-accurate-is-ipo-gmp-we-checked-all-294-indian-ipos-listed-in-2026-4bdg): last GMP vs listing price for every 2026 IPO, from the same Actor.
 - [apify-data-actors-examples](https://github.com/datadmon/apify-data-actors-examples): Python, Node.js, curl and n8n examples.
 
 ## More templates by Daemon Data
