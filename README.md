@@ -24,7 +24,7 @@ From the second run on, a **Change** column shows the GMP move in ₹ since the 
 
 1. Click **Use this template → Create a new repository**.
 2. Create a free [Apify](https://apify.com) account, copy your API token from **Console → Settings → Integrations**, and add it in your repository under **Settings → Secrets and variables → Actions** as `APIFY_TOKEN`.
-3. Add the workflow: **Add file → Create new file**, name it `.github/workflows/ipo-gmp.yml`, paste the contents of [`setup/ipo-gmp.yml`](setup/ipo-gmp.yml) and commit.
+3. The workflow is already in your copy at [`.github/workflows/ipo-gmp.yml`](.github/workflows/ipo-gmp.yml). If the **Actions** tab asks you to enable workflows, enable them.
 4. For Telegram alerts, create a bot with [@BotFather](https://t.me/BotFather) and add `TELEGRAM_BOT_TOKEN` and your chat or channel ID as `TELEGRAM_CHAT_ID`. Then run **Actions → IPO GMP tracker → Run workflow** once. It runs every day at 10:00 and 18:00 IST.
 
 ## Configuration
